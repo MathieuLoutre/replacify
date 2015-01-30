@@ -1,0 +1,39 @@
+{
+	"name": "replacify",
+	"version": "0.1.0",
+	"description": "Replace string in files",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/MathieuLoutre/replacify.git"
+	},
+	"keywords": [
+		"browserify-plugin",
+		"replace",
+		"rename",
+		"browserify",
+		"browser",
+		"commonjs"
+	],
+	"author": {
+		"name": "Mathieu Triay",
+		"email": "mathieu.triay@gmail.com"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MathieuLoutre/replacify/issues"
+	},
+	"homepage": "https://github.com/MathieuLoutre/replacify",
+	"dependencies": {
+		"through2": "^0.6.2"
+	},
+	"peerDependencies": {
+		"browserify": ">=3.28.0"
+	},
+	"maintainers": [
+		{
+			"name": "MathieuLoutre",
+			"email": "mathieu.triay@gmail.com"
+		}
+	]
+}
